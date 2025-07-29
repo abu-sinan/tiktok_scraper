@@ -1,0 +1,6 @@
+{
+  "max_profiles": 50,
+  "headless": true,
+  "output_csv": "output/results.csv",
+  "use_proxies": false
+}
